@@ -4,7 +4,7 @@ title: Isaac Newtons's CV
 Danieeeeel
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Physicist, Mathematiciannnnnnnn, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
